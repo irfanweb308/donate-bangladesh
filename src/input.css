@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+
+.lexend-font {
+  font-family: "Lexend", sans-serif;
+}
+.btn-color{
+    background-color: #B4F461;
+}
